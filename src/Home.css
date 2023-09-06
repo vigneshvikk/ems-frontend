@@ -1,0 +1,30 @@
+#para{
+    text-align:justify
+}
+.backg{
+    /* background-color: #b3e099; */
+    /* background-color: #f5dd9d; */
+    /* background-color: #a7dbd8; */
+    background-color: #dabaf5;
+}
+.empimg{
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+}
+.head1{
+    color: rgb(59, 59, 217);
+}
+.link{
+    text-decoration: none;
+ 
+}
+.con{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.con:hover{
+    transition:0.5s ease-in-out;
+
+    border: 1px solid black;
+}

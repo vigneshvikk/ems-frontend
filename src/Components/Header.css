@@ -1,0 +1,13 @@
+#icons{
+    color: #cfee72;
+    transition: 0.6s ease-in-out;
+}
+#icons:hover{
+    transform: translate(6px, 6px);
+}
+.logo{
+    color: rgb(186, 236, 79);
+}
+.link{
+    text-decoration: none;
+}
